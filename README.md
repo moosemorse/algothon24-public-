@@ -1,6 +1,6 @@
 # Algothon 2024 - Quantitative Portfolio Allocation Challenge
 
-# A copy of our Algothon 2024 project with sensitive information removed 
+### A copy of our Algothon 2024 project with sensitive information removed 
 
 ## 🚀 Project Description
 This project was developed for Algothon 2024, a leading quantitative hackathon hosted by the Algorithmic Trading Society at Imperial College London. Our challenge was to solve a portfolio allocation problem, where the goal was to maximize the performance of a portfolio by dynamically allocating weights to a set of trading strategies based on their log returns over time.
